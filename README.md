@@ -1,3 +1,5 @@
+[![Listed on Glama](https://img.shields.io/badge/Glama-MCP_Connector-6e56cf)](https://glama.ai/mcp/connectors/com.flevy/flevy)
+
 # Flevy MCP Server
 
 The official [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server for [Flevy](https://flevy.com), the marketplace for premium business documents: consulting frameworks, PowerPoint templates, Excel financial models, and training guides, plus a library of management case studies spanning hundreds of management topics.
